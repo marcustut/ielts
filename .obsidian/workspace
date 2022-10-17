@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "11c22ae6adad47c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b35961e8c541d6e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Writing/T1 - U.S. Energy Consumption By Fuel (1980-2030).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1da36f8d4c60213f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dcb1775fa7a60a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51fbba219c546aee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bc058be94794c4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0c776f600a9473e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65d7ede7cfe7acce",
+    "type": "split",
+    "children": [
+      {
+        "id": "477aa8f810098a90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddada0e73a978957",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Writing/T1 - U.S. Energy Consumption By Fuel (1980-2030).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d069a308a1a7148",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Writing/T1 - U.S. Energy Consumption By Fuel (1980-2030).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78529e46435880fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "884b6ed7645fb5c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writing/T1 - U.S. Energy Consumption By Fuel (1980-2030).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "51fbba219c546aee",
+  "lastOpenFiles": [
+    "Writing/U.S. Energy Consumption by Fuel.png",
+    "Writing/T1 - U.S. Energy Consumption By Fuel (1980-2030).md",
+    "Listening/Packham's Shipping Policy.md",
+    "Sources.md"
+  ]
+}
