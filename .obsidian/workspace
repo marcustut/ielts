@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9b35961e8c541d6e",
+        "id": "aac98dd3fd253d81",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,10 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51fbba219c546aee",
+  "active": "aac98dd3fd253d81",
   "lastOpenFiles": [
-    "Writing/U.S. Energy Consumption by Fuel.png",
+    "Writing/U.S._Energy_Consumption_by_Fuel.png",
     "Writing/T1 - U.S. Energy Consumption By Fuel (1980-2030).md",
+    "().md",
     "Listening/Packham's Shipping Policy.md",
     "Sources.md"
   ]

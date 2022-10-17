@@ -1,7 +1,7 @@
-# U.S. Energy Consumption By Fuel (1980-2030)
+# U.S. Energy Consumption by Fuel (1980-2030)
 The graph below gives information from a 2008 report about consumption of energy in the USA since 1980 with projections until 2030. Summarise the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words.
 
-![[U.S. Energy Consumption by Fuel.png]]
+![Line Graph of U.S. Energy Consumption by Fuel (1980-2030)](U.S._Energy_Consumption_by_Fuel.png)
 
 ---
 
