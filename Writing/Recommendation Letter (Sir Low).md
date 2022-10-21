@@ -4,7 +4,7 @@ It is my pleasure to recommend Marcus Lee Kai Yang for admission to _[name of pr
 
 Overall, Marcus is a fast learner and he is highly resourceful. His project on scaling web applications on AWS Cloud had demonstrated his unique ability in understading real-world problems with high clarity and that helped him to pinpoint issues accurately as evidented by his work. His dilligence and overall intelligence is also reflected in his grades for the course. 
 
-Apart from that, Marcus had shown exceptional fundamentals in programming. Also,
+Apart from that, Marcus had shown exceptional fundamentals in programming. 
 
 - <mark>exceptional techinical ability</mark>
 	- Built a sophiscated employee management dashboard following client-server architecture with Vue on the front-end and Python on the back-end.
